@@ -1,0 +1,28 @@
+{
+  "id": "71305ce0",
+  "timestamp": "2026-02-19 18:07:48",
+  "status": "PASSED",
+  "filename": "upload.apk",
+  "summary": {
+    "total": 3,
+    "passed": 3,
+    "failed": 0
+  },
+  "steps": [
+    {
+      "step": "APK Upload",
+      "status": "PASSED",
+      "detail": "File received successfully"
+    },
+    {
+      "step": "App Install",
+      "status": "PASSED",
+      "detail": "APK installed on test device"
+    },
+    {
+      "step": "Launch Test",
+      "status": "PASSED",
+      "detail": "App launched without crashes"
+    }
+  ]
+}
