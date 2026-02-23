@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.png
+*.apk
+uploads/
+reports/
+serverWakeUp.txt
+requirments.txt
